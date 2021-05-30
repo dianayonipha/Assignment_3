@@ -65,6 +65,6 @@ public class MusicAlbum {
 	
 	public String toString()
 	{
-		return " Album title: "+ title+ "\n Artist Name: "+ artistName + "\n\n\n"+ "Press OKH to view list";
+		return " Album title: "+ title+ "\n Artist Name: "+ artistName + "\n\n\n"+ "Press OK to view list";
 	}
 }
