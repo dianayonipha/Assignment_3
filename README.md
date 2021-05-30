@@ -1,4 +1,4 @@
-# 219013187_Diana-zibi
+# 219013187_Diana-Zibi
 
 Write UML class diagram for music album class
 Write Music Album class
